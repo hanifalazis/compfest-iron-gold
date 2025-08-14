@@ -1,6 +1,6 @@
 # Data Science Academy - Debt Collection Analysis
 
-![Dashboard](./data/Dashboard.png)
+![Dashboard](./Dashboard.png)
 
 **Dashboard Looker Studio:** [Lihat di sini](https://lookerstudio.google.com/s/gHHsQsfOGmg)
 
@@ -53,4 +53,5 @@ Proyek ini menganalisis data keluhan konsumen terkait produk keuangan di Amerika
 - [Credit card icons](https://www.flaticon.com/free-icons/credit-card) by Freepik - Flaticon
 - [Homepage icons](https://www.flaticon.com/free-icons/homepage) by pojok d - Flaticon
 - [Loan icons](https://www.flaticon.com/free-icons/loan) by iconixar - Flaticon
+
 - [Repayment icons](https://www.flaticon.com/free-icons/repayment) by syafii5758 - Flaticon
