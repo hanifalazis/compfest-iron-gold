@@ -1,4 +1,4 @@
-# Data Science Academy - Debt Collection Analysis
+# Comfest - U.S. Consumer Financial Complaints Dashboard
 
 ![Dashboard](./Dashboard.png)
 
@@ -26,3 +26,4 @@ Proyek ini menganalisis data keluhan konsumen terkait produk keuangan di Amerika
 - [Homepage icons](https://www.flaticon.com/free-icons/homepage) by pojok d - Flaticon
 - [Loan icons](https://www.flaticon.com/free-icons/loan) by iconixar - Flaticon
 - [Repayment icons](https://www.flaticon.com/free-icons/repayment) by syafii5758 - Flaticon
+
